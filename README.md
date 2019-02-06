@@ -21,7 +21,7 @@ That being said, that conversation has a very high chance of going poorly. You s
 
 * **Language \ Framework wars:**  
 Talking about what language is good, and what language is bad is likely to spark an argument that is based on internal values, and is unlikely to produce any positive results. *Here are some specific callouts.*  
-1. As a developer, we should also not recommend languages with particularly bad reputations, such as PHP, Cobal, C++, C or Visual Basic. For largely political reasons, and also some decent technical reasons as well.  
+1. As a developer, we should also not recommend languages with particularly bad reputations, such as PHP, COBOL, C++, C or Visual Basic. For largely political reasons, and also some decent technical reasons as well.  
 2. We also should never recommend Angular to any clients. For nothing other than the reason that the version changes are frequent, non back-wards compatible and unless your company is willing to pay for a large re-write, you will get stuck on a later version. And once you aren't on the latest version, you are a working on a legacy tech stack, which sucks.
 
 * **What language is best?**
